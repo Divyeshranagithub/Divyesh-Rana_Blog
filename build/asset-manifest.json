@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Divyesh-Rana_Blog%20/static/css/main.61ff5251.css",
+    "main.js": "/Divyesh-Rana_Blog%20/static/js/main.09124d23.js",
+    "static/js/453.785134cd.chunk.js": "/Divyesh-Rana_Blog%20/static/js/453.785134cd.chunk.js",
+    "index.html": "/Divyesh-Rana_Blog%20/index.html",
+    "main.61ff5251.css.map": "/Divyesh-Rana_Blog%20/static/css/main.61ff5251.css.map",
+    "main.09124d23.js.map": "/Divyesh-Rana_Blog%20/static/js/main.09124d23.js.map",
+    "453.785134cd.chunk.js.map": "/Divyesh-Rana_Blog%20/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61ff5251.css",
+    "static/js/main.09124d23.js"
+  ]
+}
